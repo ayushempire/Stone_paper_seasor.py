@@ -63,7 +63,7 @@ def comp_prints(n=0):
 
 
 def score(r):
-    with open("tables\\RPS_Score.txt","a") as f:
+    with open("History\\RPS_Score.txt","a") as f:
         f.write("\n")
         f.write(f"  {r}")
 
@@ -103,7 +103,7 @@ def main():
 name = input("Enter your name: ")
 
 
-with open("tables\\RPS_Score.txt","a") as f:
+with open("History\\RPS_Score.txt","a") as f:
     f.write("\n")
     f.write(f"Player name - {name}")
 
