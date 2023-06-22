@@ -11,5 +11,9 @@ you can see the code.
 5) works like an AI if game tied
    
 ---To Run This Game---
+
 just run the main.py file in terminal or any code editor
-History of player name and result will saved in tables folder
+History of player name and result will saved in History folder
+
+--- OUTPUT ---
+output folder contain images/screenshots that how game look alike
